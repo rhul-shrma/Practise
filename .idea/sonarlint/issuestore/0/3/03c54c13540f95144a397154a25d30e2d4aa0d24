@@ -1,0 +1,24 @@
+
+]
+java:S1659
+"BDeclare "Paper" and all following declarations on a separate line.(…”¡…şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­·ÓÕ
+D
+java:S1481
+")Remove this unused "Rock" local variable.(…”¡…şÿÿÿÿ
+E
+java:S1481
+"*Remove this unused "Paper" local variable.(…”¡…şÿÿÿÿ
+G
+java:S1481
+",Remove this unused "scissor" local variable.(…”¡…şÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ºúËß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œÓòÖûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¤‰üüÿÿÿÿ8ùæÛ÷0
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÓ¦ùÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…”¡…şÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…”¡…şÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËƒÍ¨
